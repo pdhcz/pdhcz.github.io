@@ -22,6 +22,8 @@ p {
     border-color: #617711;
     background-color: #d1e87d;
     color: black;
+    margin-left: 60px;
+    margin-right: 60px;
 }
 .headimage {
     display: block;
@@ -47,11 +49,4 @@ p {
 .nb a.active {
     background-color: #4caf50;
     color: white;
-}
-.content {
-    background-color: #d4ff3a;
-    margin-left: 60px;
-    margin-right: 60px;
-    margin-top: 5px;
-    margin-bottom: 100vh;
 }
